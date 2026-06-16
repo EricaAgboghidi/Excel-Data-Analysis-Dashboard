@@ -14,18 +14,20 @@ This project analyzes what the workforce looks like and employee attrition patte
 - Which department has the highest attrition?
 - Are younger employees leaving more often?
 - Does overtime contribute to attrition?
-- Which department has the lowest job satisfaction?
+- Which department has the lowest job satisfaction
 
-## Dashboard Interaction
-- <a href="https://github.com/EricaAgboghidi/Excel-Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard.xlsx">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/EricaAgboghidi/Excel-Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard.xlsx">View Dashboard</a>
 
 ## Data Cleaning Process
-- Before analysis, the following data preparation steps were performed:
+- Before analysis, the following dahttps://github.com/EricaAgboghidi/Excel-Data-Analysis-Dashboard/securityta preparation steps were performed:
 - Checked for duplicate Employee IDs. 
 - Verified consistency in categorical fields. 
 - Reviewed missing values. 
 - Standardized text formatting. 
-- Created Age Group categories for segmentation. 
+- Created Age Group categories for segmentation.
+
+## Dashboard 
+<img width="1852" height="657" alt="Screenshot 1" src="https://github.com/user-attachments/assets/2e8b8b61-a2ae-4b37-9de1-cfdf792b87f2" />
 
 ## Analysis Findings
 - Males represent 60% of the workforce while females account for 40%.
@@ -34,7 +36,7 @@ This project analyzes what the workforce looks like and employee attrition patte
 - Overtime is the strongest predictor of attrition.
 - Human resources have the lowest job satisfaction.
 
-## Recommendations
+## Final Conclusion
 Based on the analysis:
 - Develop retention programs targeting employees aged 26–35. 
 - Investigate workload and career development opportunities within the Sales department. 
