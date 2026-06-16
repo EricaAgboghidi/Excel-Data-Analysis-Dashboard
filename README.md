@@ -23,3 +23,18 @@ This project analyzes what the workforce looks like and employee attrition patte
 - Reviewed missing values. 
 - Standardized text formatting. 
 - Created Age Group categories for segmentation. 
+
+## Analysis Findings
+- Males represent 60% of the workforce while females account for 40%.
+- Research and development experienced the highest attrition.
+- Employees aged 26-35 make up the largest workforce segment.
+- Overtime is the strongest predictor of attrition.
+- Human resources have the lowest job satisfaction.
+
+## Recommendations
+Based on the analysis:
+- Develop retention programs targeting employees aged 26–35. 
+- Investigate workload and career development opportunities within the Sales department. 
+- Review travel policies and employee support mechanisms for frequent travelers. 
+- Explore flexible work arrangements for employees with longer commute distances. 
+- Conduct regular employee engagement surveys to identify dissatisfaction early. 
