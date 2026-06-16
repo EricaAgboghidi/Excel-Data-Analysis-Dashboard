@@ -16,6 +16,9 @@ This project analyzes what the workforce looks like and employee attrition patte
 - Does overtime contribute to attrition?
 - Which department has the lowest job satisfaction?
 
+## Dashboard Interaction
+- <a href="https://github.com/EricaAgboghidi/Excel-Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard.xlsx">View Dashboard</a>
+
 ## Data Cleaning Process
 - Before analysis, the following data preparation steps were performed:
 - Checked for duplicate Employee IDs. 
